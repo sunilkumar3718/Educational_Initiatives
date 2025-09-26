@@ -1,6 +1,6 @@
-Output:
 Software Design Patterns
 This project demonstrates 6 common Java design patterns.
+Output:
 
 **Observer Pattern**  
 Temperature: 28
